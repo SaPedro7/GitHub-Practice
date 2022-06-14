@@ -1,9 +1,15 @@
+/* INDEX */
 body {
     background: rgb(255, 179, 11);
     background: linear-gradient(90deg, rgba(255, 179, 11, 1) 0%, rgba(243, 106, 62, 1) 100%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
     padding: auto;
+}
+
+/* ABOUT */
+.body-a {
+    background-color: rgb(41, 13, 41);
 }
 
 header {
@@ -15,7 +21,7 @@ header {
 }
 
 .audio {
-    width: 100px;
+    width: 200px;
     float: center
 
 }
@@ -59,3 +65,4 @@ ul li a:hover {
     color: rgb(255, 179, 11);
     font-family: 'Times New Roman', Times, serif;
 }
+
